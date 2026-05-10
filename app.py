@@ -494,9 +494,9 @@ def main():
             {"name": "Yousef Gad", "role": "Technical Leader", "img": "Team/Yousef.jpg"},
             {"name": "Seif Elboghdady", "role": "Finance Leader", "img": "Team/Seif.jpg"},
             {"name": "Aya Seraj", "role": "R&D Leader", "img": "Team/Aya.jpg"},
-            {"name": "Ahmed Elmamlouk", "role": "Operations Leader", "img": "Team/Ahmed.jpg"},
+            {"name": "Mohamed Amr", "role": "Mechanical Design Leader", "img": "Team/Mohamed.jpg"},
             {"name": "Asmaa Elfagal", "role": "Marketing Leader", "img": "Team/Asmaa.jpg"},
-            {"name": "Mahmoud Mira", "role": "AI Engineer", "img": "Team/Mahmoud.jpg"},
+            {"name": "Mahmoud Mira", "role": "AI Leader", "img": "Team/Mahmoud.jpg"},
         ]
         # --------------------------------------------
 
